@@ -1,3 +1,7 @@
+---
+layout: page
+title: About Me!
+---
 # About Me!
 ## **A Brief Introduction**
 ---
