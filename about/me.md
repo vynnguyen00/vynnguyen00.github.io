@@ -39,10 +39,9 @@
 
 ### Some haha's I found from YouTube
 *We will Now begin the push up section*
-(<iframe width="560" height="315" src="https://www.youtube.com/embed/3c9m3DvlWsg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>)
-
+(https://www.youtube.com/embed/3c9m3DvlWsg)
 *Why chihuahuas don't run on the snow?*
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JDaLg7G8rH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+(https://www.youtube.com/embed/JDaLg7G8rH0)
 
 ---
 ## **And, lastly, some music I'm currently listening to!**
