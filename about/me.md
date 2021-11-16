@@ -30,24 +30,28 @@
 ---
 ### Some haha's I found from Twitter
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">he is the blueprint <a href="https://t.co/8i27AbCSN8">pic.twitter.com/8i27AbCSN8</a></p>&mdash; sum london (@sumlondon) <a href="https://twitter.com/sumlondon/status/1318927501943504902?ref_src=twsrc%5Etfw">October 21, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+[he is the blueprint](https://t.co/8i27AbCSN8)
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">At some point we gotta just let Florida be it’s own country <a href="https://t.co/jgX4UukAuI">pic.twitter.com/jgX4UukAuI</a></p>&mdash; ZEV! A “Dark Muggle” (@MusicZev) <a href="https://twitter.com/MusicZev/status/1400427140940771334?ref_src=twsrc%5Etfw">June 3, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Therapy is like someone gently walking through your brain and looking around like, “This how you living??”</p>&mdash; Heben Nigatu (@heavenrants) <a href="https://twitter.com/heavenrants/status/1093906146883260416?ref_src=twsrc%5Etfw">February 8, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+[At some point we gotta just let Florida be it’s own country](https://t.co/jgX4UukAuI)
+
+[Therapy is like](https://twitter.com/heavenrants/status/1093906146883260416?ref_src=twsrc%5Etfw)
 
 ---
 
 ### Some haha's I found from YouTube
-*We will Now begin the push up section*
-(https://www.youtube.com/embed/3c9m3DvlWsg)
-*Why chihuahuas don't run on the snow?*
-(https://www.youtube.com/embed/JDaLg7G8rH0)
+[*We will Now begin the push up section*](https://www.youtube.com/embed/3c9m3DvlWsg)
+
+[*Why chihuahuas don't run on the snow?*](https://www.youtube.com/embed/JDaLg7G8rH0)
 
 ---
 ## **And, lastly, some music I'm currently listening to!**
 ---
-<iframe src="https://open.spotify.com/embed/track/1scwknKtBQpreYy6MSoJqJ" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
-<iframe src="https://open.spotify.com/embed/track/2nNBpUZRXZaBgJnu5qbGEJ" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
-<iframe src="https://open.spotify.com/embed/track/3xKTpGCsafXzV4muM1Hpl3" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
-<iframe src="https://open.spotify.com/embed/track/75s6YTfSfE2Ojbb9P44PV9" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
-<iframe src="https://open.spotify.com/embed/track/45ZmUXITNXixqBjelRmBSO" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+["Favorite Liar" by The Wrecks](https://open.spotify.com/embed/track/1scwknKtBQpreYy6MSoJqJ)
+
+["The Cave" by SIAMES](https://open.spotify.com/embed/track/2nNBpUZRXZaBgJnu5qbGEJ)
+
+["Let Go" by Frou Frou](https://open.spotify.com/embed/track/3xKTpGCsafXzV4muM1Hpl3)
+
+["Caring is Creepy" by The Shins](https://open.spotify.com/embed/track/75s6YTfSfE2Ojbb9P44PV9)
+
+["Candy" by Paolo Nutini](https://open.spotify.com/embed/track/45ZmUXITNXixqBjelRmBSO)
