@@ -1,9 +1,8 @@
 ---
 layout: post
 title: First Post
-categories:
-- about
-- welcome
+categories: about
+tags: [about, welcome]
 ---
 
 This is my **first post**.
