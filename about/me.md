@@ -43,7 +43,9 @@ title: About Me!
 ---
 
 ### Some haha's I found from YouTube
-[*We will Now begin the push up section*](https://www.youtube.com/embed/3c9m3DvlWsg)
+[*We will Now begin the push up section*]
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3c9m3DvlWsg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [*Why chihuahuas don't run on the snow?*](https://www.youtube.com/embed/JDaLg7G8rH0)
 
